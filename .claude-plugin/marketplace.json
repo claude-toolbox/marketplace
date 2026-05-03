@@ -10,10 +10,18 @@
     {
       "name": "github-flow-toolkit",
       "source": { "source": "github", "repo": "claude-toolbox/github-flow-toolkit" },
-      "description": "Complete GitHub Flow workflow: conventional commits, PR lifecycle, code review, branch protection, and release tagging",
+      "description": "Complete GitHub Flow workflow: conventional commits, PR lifecycle, code review, issue triage, branch protection, and release tagging",
       "version": "1.0.0",
       "author": { "name": "GY" },
       "category": "workflow"
+    },
+    {
+      "name": "web-search-toolkit",
+      "source": { "source": "github", "repo": "claude-toolbox/web-search-toolkit" },
+      "description": "Unified search toolkit: intelligent routing across WebSearch, Exa, Context7, and gh_grep for optimal results and token efficiency",
+      "version": "1.0.0",
+      "author": { "name": "GY" },
+      "category": "search"
     }
   ]
 }
