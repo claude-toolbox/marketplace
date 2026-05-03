@@ -36,7 +36,7 @@
       "category": "search"
     },
     {
-      "name": "mattpocock-skills",
+      "name": "mattpocock-skills-fork",
       "source": {
         "source": "github",
         "repo": "claude-toolbox/mattpocock-skills-fork"
