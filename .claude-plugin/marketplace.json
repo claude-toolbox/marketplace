@@ -1,7 +1,9 @@
 {
   "name": "claude-toolbox",
   "id": "claude-toolbox",
-  "owner": { "name": "GY" },
+  "owner": {
+    "name": "GY"
+  },
   "metadata": {
     "description": "Claude Code plugin marketplace by GY",
     "version": "1.0.0"
@@ -9,26 +11,41 @@
   "plugins": [
     {
       "name": "github-flow-toolkit",
-      "source": { "source": "github", "repo": "claude-toolbox/github-flow-toolkit" },
+      "source": {
+        "source": "github",
+        "repo": "claude-toolbox/github-flow-toolkit"
+      },
       "description": "Complete GitHub Flow workflow: conventional commits, PR lifecycle, code review, issue triage, branch protection, and release tagging",
       "version": "1.0.0",
-      "author": { "name": "GY" },
+      "author": {
+        "name": "GY"
+      },
       "category": "workflow"
     },
     {
       "name": "web-search-toolkit",
-      "source": { "source": "github", "repo": "claude-toolbox/web-search-toolkit" },
+      "source": {
+        "source": "github",
+        "repo": "claude-toolbox/web-search-toolkit"
+      },
       "description": "Unified search toolkit: intelligent routing across WebSearch, Exa, Context7, and gh_grep for optimal results and token efficiency",
       "version": "1.0.0",
-      "author": { "name": "GY" },
+      "author": {
+        "name": "GY"
+      },
       "category": "search"
     },
     {
       "name": "mattpocock-skills",
-      "source": { "source": "github", "repo": "claude-toolbox/mattpocock-skills-fork" },
+      "source": {
+        "source": "github",
+        "repo": "claude-toolbox/mattpocock-skills-fork"
+      },
       "description": "Skills for Real Engineers by Matt Pocock: diagnose, grill-with-docs, triage, tdd, to-issues, to-prd, caveman, grill-me, and more",
       "version": "1.0.0",
-      "author": { "name": "Matt Pocock" },
+      "author": {
+        "name": "Matt Pocock"
+      },
       "category": "engineering"
     }
   ]
