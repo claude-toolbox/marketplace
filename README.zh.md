@@ -26,6 +26,7 @@ GY 的 Claude Code 插件市场。
 |------|------|------|
 | [github-flow-toolkit](https://github.com/claude-toolbox/github-flow-toolkit) | workflow | 完整的 GitHub Flow 工作流：约定式提交、PR 生命周期、代码审查、分支保护和发布标签 |
 | [web-search-toolkit](https://github.com/claude-toolbox/web-search-toolkit) | search | 统一搜索工具包：智能路由 WebSearch、Exa、Context7 和 gh_grep |
+| [mattpocock-skills-fork](https://github.com/claude-toolbox/mattpocock-skills-fork) | engineering | Matt Pocock 的工程师技能集：诊断、文档质询、分类、TDD、问题分解、PRD、代码架构改进等 |
 
 ## 许可证
 
