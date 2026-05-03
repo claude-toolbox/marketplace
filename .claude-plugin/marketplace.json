@@ -1,0 +1,19 @@
+{
+  "name": "claude-toolbox",
+  "id": "claude-toolbox",
+  "owner": { "name": "GY" },
+  "metadata": {
+    "description": "Claude Code plugin marketplace by GY",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "github-flow-toolkit",
+      "source": { "source": "github", "repo": "claude-toolbox/github-flow-toolkit" },
+      "description": "Complete GitHub Flow workflow: conventional commits, PR lifecycle, code review, branch protection, and release tagging",
+      "version": "1.0.0",
+      "author": { "name": "GY" },
+      "category": "workflow"
+    }
+  ]
+}
