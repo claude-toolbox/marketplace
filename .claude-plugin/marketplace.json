@@ -16,7 +16,7 @@
         "repo": "claude-toolbox/mattpocock-skills-fork"
       },
       "description": "Skills for Real Engineers by Matt Pocock: diagnose, grill-with-docs, triage, tdd, to-issues, to-prd, caveman, grill-me, and more",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "Matt Pocock"
       },
